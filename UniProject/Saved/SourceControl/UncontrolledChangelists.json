@@ -5,6 +5,7 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+<<<<<<< HEAD
 				"C:/Users/There/Documents/GitHub/OrbitalOutlast/UniProject/Content/UI/StartScreen.umap",
 				"C:/Users/There/Documents/GitHub/OrbitalOutlast/UniProject/Content/UI/W_StartScreen.uasset",
 				"C:/Users/There/Documents/GitHub/OrbitalOutlast/UniProject/Content/UI/StartGameMode.uasset",
@@ -188,6 +189,14 @@
 				"C:/Users/mw2ve/Documents/Unreal Projects/UniProject/Content/Game/BP/Input/IA_Shoot.uasset",
 				"C:/Users/mw2ve/Documents/Unreal Projects/UniProject/Content/Game/BP/BP_Projectile.uasset",
 				"C:/Users/mw2ve/Documents/Unreal Projects/UniProject/Content/__ExternalActors__/Level/Default/3/NW/EFZIX3AKPA1ANTUGDD54N8.uasset"
+=======
+				"C:/Users/Evan Boomer/Saved Games/OrbitalOutlast/UniProject/Content/Game/BP/BP_PlayerBounds.uasset",
+				"C:/Users/Evan Boomer/Saved Games/OrbitalOutlast/UniProject/Content/Game/BP/BP_Meteor.uasset",
+				"C:/Users/Evan Boomer/Saved Games/OrbitalOutlast/UniProject/Content/__ExternalActors__/Level/Default/6/0Y/KYP47KF2ORC3C97LDGMTA3.uasset",
+				"C:/Users/Evan Boomer/Saved Games/OrbitalOutlast/UniProject/Content/__ExternalActors__/Level/Default/D/0D/KBT2IKXUIM5ILGH6A6FZIH.uasset",
+				"C:/Users/Evan Boomer/Saved Games/OrbitalOutlast/UniProject/Content/__ExternalActors__/Level/Default/C/J8/LVH7THRNMXP8MPQKZUDRRX.uasset",
+				"C:/Users/Evan Boomer/Saved Games/OrbitalOutlast/UniProject/Content/__ExternalActors__/Level/Default/1/H3/1PHI6CYH98SGO2YO40GZBF.uasset"
+>>>>>>> upstream/main
 			]
 		}
 	]
