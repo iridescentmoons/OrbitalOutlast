@@ -5,9 +5,12 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/There/Documents/GitHub/OrbitalOutlast/UniProject/Content/Level/StartLevel.umap",
+				"C:/Users/There/Documents/GitHub/OrbitalOutlast/UniProject/Content/Game/BP/BP_Character.uasset",
 				"C:/Users/There/Documents/GitHub/OrbitalOutlast/UniProject/Content/Game/UI/HUD.uasset",
+				"C:/Users/There/Documents/GitHub/OrbitalOutlast/UniProject/Content/UI/ScoreBoard.uasset",
 				"C:/Users/There/Documents/GitHub/OrbitalOutlast/UniProject/Content/UI/W_EndScreen.uasset",
-				"C:/Users/There/Documents/GitHub/OrbitalOutlast/UniProject/Content/Game/BP/BP_Character.uasset"
+				"C:/Users/There/Documents/GitHub/OrbitalOutlast/UniProject/Content/UI/w_pausescreen.uasset"
 			]
 		}
 	]
