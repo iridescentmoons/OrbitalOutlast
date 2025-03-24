@@ -5,12 +5,20 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"C:/Users/There/Documents/GitHub/OrbitalOutlast/UniProject/Content/Level/StartLevel.umap",
-				"C:/Users/There/Documents/GitHub/OrbitalOutlast/UniProject/Content/Game/BP/BP_Character.uasset",
-				"C:/Users/There/Documents/GitHub/OrbitalOutlast/UniProject/Content/Game/UI/HUD.uasset",
-				"C:/Users/There/Documents/GitHub/OrbitalOutlast/UniProject/Content/UI/ScoreBoard.uasset",
-				"C:/Users/There/Documents/GitHub/OrbitalOutlast/UniProject/Content/UI/W_EndScreen.uasset",
-				"C:/Users/There/Documents/GitHub/OrbitalOutlast/UniProject/Content/UI/w_pausescreen.uasset"
+				"C:/Users/Evan Boomer/Saved Games/OrbitalOutlast/UniProject/Content/Level/StartLevel.umap",
+				"C:/Users/Evan Boomer/Saved Games/OrbitalOutlast/UniProject/Content/Game/BP/BP_SpawnController.uasset",
+				"C:/Users/Evan Boomer/Saved Games/OrbitalOutlast/UniProject/Content/Game/BP/BP_MissileMeteor.uasset",
+				"C:/Users/Evan Boomer/Saved Games/OrbitalOutlast/UniProject/Content/Game/BP/BP_Projectile.uasset",
+				"C:/Users/Evan Boomer/Saved Games/OrbitalOutlast/UniProject/Content/Game/BP/BP_Character.uasset",
+				"C:/Users/Evan Boomer/Saved Games/OrbitalOutlast/UniProject/Content/Game/BP/BP_PlayerBounds.uasset",
+				"C:/Users/Evan Boomer/Saved Games/OrbitalOutlast/UniProject/Content/__ExternalActors__/Level/Default/1/H3/1PHI6CYH98SGO2YO40GZBF.uasset",
+				"C:/Users/Evan Boomer/Saved Games/OrbitalOutlast/UniProject/Content/__ExternalActors__/Level/Default/C/J8/LVH7THRNMXP8MPQKZUDRRX.uasset",
+				"C:/Users/Evan Boomer/Saved Games/OrbitalOutlast/UniProject/Content/__ExternalActors__/Level/Default/6/0Y/KYP47KF2ORC3C97LDGMTA3.uasset",
+				"C:/Users/Evan Boomer/Saved Games/OrbitalOutlast/UniProject/Content/__ExternalActors__/Level/Default/D/0D/KBT2IKXUIM5ILGH6A6FZIH.uasset",
+				"C:/Users/Evan Boomer/Saved Games/OrbitalOutlast/UniProject/Content/__ExternalActors__/Level/Default/5/XP/07DAQARBR88S2F7NSAK2KY.uasset",
+				"C:/Users/Evan Boomer/Saved Games/OrbitalOutlast/UniProject/Content/Game/BP/BP_Meteor.uasset",
+				"C:/Users/Evan Boomer/Saved Games/OrbitalOutlast/UniProject/Content/Game/BP/BP_ClusterMeteor.uasset",
+				"C:/Users/Evan Boomer/Saved Games/OrbitalOutlast/UniProject/Content/Game/UI/BP_FuelBar.uasset"
 			]
 		}
 	]
